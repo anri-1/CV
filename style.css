@@ -1,1 +1,10 @@
-/* qwert */
+*{
+  margin: 0;
+}
+.ul {
+  text-align:left;
+    background-color: aquamarine;
+}
+.main{
+    background-color:aquamarine;
+}
